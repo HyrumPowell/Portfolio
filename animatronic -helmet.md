@@ -67,3 +67,18 @@ Because the system was worn by an actor, reliability and safety were critical. M
 - Coordinating multiple actuators using embedded control logic
 - Rapid iteration using CAD and additive manufacturing
 - System-level debugging across mechanical, electrical, and software domains
+
+
+## Project Photos
+
+![Automated Prize Carousel – Front View](images/IMG_9021.jpg)
+
+![Button Controls](images/IMG_9046.jpg)
+
+![Safety Guard](images/IMG_9049.jpg)
+
+![3D Printed Spacers](images/IMG_9050.jpg)
+
+
+
+[Portfolio Main Page](index.md)
