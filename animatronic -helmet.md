@@ -17,8 +17,8 @@ Key system requirements included:
 - Modular mechanical design for maintenance and adjustments
 
 ## Hardware Components
-- Arduino microcontroller
-- 10 hobby servo motors
+- Arduino Nano microcontroller
+- 10 hobby servo motors 
 - Servo control board
 - LEDs for lighting effects
 - RC receiver and transmitter
