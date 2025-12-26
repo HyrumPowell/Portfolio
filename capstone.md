@@ -47,11 +47,11 @@ Combining mechanical, electrical, and control subsystems required iterative debu
 
 ![Automated Prize Carousel – Front View](IMG_9021.jpg)
 
-![Button Controls](IMG_9046.jpg)
+![Button Controls](images/IMG_9046.jpg)
 
-![Safety Guard](IMG_9049.jpg)
+![Safety Guard](images/IMG_9049.jpg)
 
-![3D Printed Spacers](IMG_9050.jpg)
+![3D Printed Spacers](images/IMG_9050.jpg)
 
 
 
