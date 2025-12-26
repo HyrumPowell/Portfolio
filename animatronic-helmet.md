@@ -2,7 +2,7 @@
 ### Dreamwalk – Tin Man Headpiece
 
 ## Project Overview
-I designed and built a wearable **animatronic helmet** for Dream Walk as part of a short film promotion. The goal was to create a reliable, lightweight electromechanical system capable of coordinated motion and lighting effects while being safely worn and operated by an actor.
+I designed and built a wearable **animatronic helmet** for Dreamwalk as part of a short film promotion. The goal was to create a reliable, lightweight electromechanical system capable of coordinated motion and lighting effects while being safely worn and operated by an actor.
 
 The project required integrating mechanical design, embedded control, wiring, and real-time troubleshooting within tight physical and usability constraints.
 
