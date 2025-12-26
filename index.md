@@ -7,6 +7,8 @@ Mechatronics Engineering graduate with hands-on experience in electromechanical 
 - [Mechatronics Engineering Capstone – Automated Prize Carousel](capstone.md)
 - [Animatronic Helmet Control System](animatronic-helmet.md)
 - Manufacturing & CNC Automation Experience
+- Automated Firework Ignition System
+- CNC Drawing Machine
 
 ## Skills
 
@@ -16,14 +18,17 @@ Mechatronics Engineering graduate with hands-on experience in electromechanical 
 - Sensors, actuators, motor control
 
 **Embedded & Programming**
-- Arduino
+- Arduino-based controllers
 - C
 - Python (basic)
 
 **Mechanical & Manufacturing**
-- SolidWorks, Fusion 360
+- SolidWorks, Fusion 360, Creo PTC, and ESPRIT
 - CNC machining
 - Prototyping & 3D printing
+
+**CNC**
+-Wire EDM, Milling, Grinding, Plasma, Laser, and 3D Printing
 
 ## Contact
 
