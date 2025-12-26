@@ -5,7 +5,7 @@ Mechatronics Engineering graduate with hands-on experience in electromechanical 
 ## Projects
 
 - [Mechatronics Engineering Capstone – Automated Prize Carousel](capstone.md)
-- Animatronic Helmet Control System
+- [Animatronic Helmet Control System](animatronic-helmet.md)
 - Manufacturing & CNC Automation Experience
 
 ## Skills
