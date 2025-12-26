@@ -43,4 +43,17 @@ Combining mechanical, electrical, and control subsystems required iterative debu
 
 [Video Demo – Vertical Prize Carousel]([Capstone Videos](https://www.uvu.edu/tm/mechatronics/students/#2023)
 
+## Project Photos
+
+![Automated Prize Carousel – Front View](IMG_9021.jpg)
+
+![Button Controls](IMG_9046.jpg)
+
+![Safety Guard](IMG_9049.jpg)
+
+![3D Printed Spacers](IMG_9050.jpg)
+
+
+
+
 
