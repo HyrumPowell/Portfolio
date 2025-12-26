@@ -45,7 +45,7 @@ Combining mechanical, electrical, and control subsystems required iterative debu
 
 ## Project Photos
 
-![Automated Prize Carousel – Front View](IMG_9021.jpg)
+![Automated Prize Carousel – Front View](images/IMG_9021.jpg)
 
 ![Button Controls](images/IMG_9046.jpg)
 
