@@ -55,6 +55,10 @@ Combining mechanical, electrical, and control subsystems required iterative debu
 
 ![3D Printed Spacers](images/IMG_9050.jpg)
 
+![Wired Up Button Box](images/IMG_8996.jpg)
+
+![CAM Toolpath to Cut Brackets](images/IMG_8951.jpg)
+
 
 
 [Portfolio Main Page](index.md)
