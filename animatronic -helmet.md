@@ -71,14 +71,11 @@ Because the system was worn by an actor, reliability and safety were critical. M
 
 ## Project Photos
 
-![Automated Prize Carousel – Front View](images/IMG_9021.jpg)
+![Open Helmet – Top View](images/IMG_7541.jpg)
 
-![Button Controls](images/IMG_9046.jpg)
+![Tin Man Actor In Suit](images/IMG_7586.jpg)
 
-![Safety Guard](images/IMG_9049.jpg)
-
-![3D Printed Spacers](images/IMG_9050.jpg)
-
+![Tin Man Animatronics Operator](images/IMG_9049.jpg)
 
 
 [Portfolio Main Page](index.md)
