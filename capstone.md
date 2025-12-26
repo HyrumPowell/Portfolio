@@ -39,8 +39,8 @@ Combining mechanical, electrical, and control subsystems required iterative debu
 - Translating design intent into functional hardware
 - Working effectively within a multidisciplinary engineering team
 
-[UVU Mechatronics Engineering LUMOS Blog Post]([https://youtube.com/yourlink](https://www.uvu.edu/cet/blog/posts/2023_mechatronics_and_family_fun_center.html)
+[UVU Mechatronics Engineering LUMOS Blog Post]([UVU Blog](https://www.uvu.edu/cet/blog/posts/2023_mechatronics_and_family_fun_center.html)
 
-[Video Demo – Vertical Prize Carousel]([https://youtube.com/yourlink](https://www.uvu.edu/tm/mechatronics/students/#2023)
+[Video Demo – Vertical Prize Carousel]([Capstone Videos](https://www.uvu.edu/tm/mechatronics/students/#2023)
 
 
