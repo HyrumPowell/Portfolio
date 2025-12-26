@@ -75,7 +75,7 @@ Because the system was worn by an actor, reliability and safety were critical. M
 
 ![Tin Man Actor In Suit](images/IMG_7586.jpg)
 
-![Tin Man Animatronics Operator](images/IMG_9049.jpg)
+![Tin Man Animatronics Operator](images/IMG_7588.jpg)
 
 
 [Portfolio Main Page](index.md)
