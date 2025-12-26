@@ -42,8 +42,10 @@ Combining mechanical, electrical, and control subsystems required iterative debu
 ## Media
 
 [UVU Mechatronics Engineering LUMOS Blog Post]([UVU Blog](https://www.uvu.edu/cet/blog/posts/2023_mechatronics_and_family_fun_center.html))
+If the link doesn't work, use this URL: https://www.uvu.edu/cet/blog/posts/2023_mechatronics_and_family_fun_center.html
 
 [Video Highlight Demo – Interactive Vertical Carousel]([Capstone Videos](https://www.uvu.edu/tm/mechatronics/students/#2023))
+If the link doesn't work, use this URL: https://www.uvu.edu/tm/mechatronics/students/#2023
 
 ## Project Photos
 
