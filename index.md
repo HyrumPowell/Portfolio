@@ -28,7 +28,7 @@ Mechatronics Engineering graduate with hands-on experience in electromechanical 
 - Prototyping & 3D printing
 
 **CNC**
--Wire EDM, Milling, Grinding, Plasma, Laser, and 3D Printing
+- Wire EDM, Milling, Grinding, Plasma, Laser, and 3D Printing
 
 ## Contact
 
