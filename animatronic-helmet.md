@@ -98,7 +98,7 @@ Because the system was worn by an actor, reliability and safety were critical. M
 [▶ Watch Short Demo of Tin Man In Progress](https://youtube.com/shorts/5JMsWlTXtZM)
 
 <iframe width="560" height="315"
-src="[https://youtube.com/shorts/5JMsWlTXtZM]"
+src="https://youtube.com/shorts/5JMsWlTXtZM"
 title="Tin Man In Progress Demo"
 frameborder="0"
 allowfullscreen>
@@ -107,7 +107,7 @@ allowfullscreen>
 [▶ Watch Short Demo of Tin Man Completed](https://youtube.com/shorts/tVqaoMflU6U)
 
 <iframe width="560" height="315"
-src="[https://youtube.com/shorts/tVqaoMflU6U]"
+src="https://youtube.com/shorts/tVqaoMflU6U"
 title="Tin Man Completed Demo"
 frameborder="0"
 allowfullscreen>
