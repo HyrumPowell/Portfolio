@@ -78,3 +78,7 @@ Careful wiring practices and channel labeling ensured predictable, repeatable op
 - Building safety-focused control logic
 - System-level thinking under real-world constraints
 
+## Project Photos
+
+![Automated Firework Ignition System](images/IMG_0001.jpeg)
+
