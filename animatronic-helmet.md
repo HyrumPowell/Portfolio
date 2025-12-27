@@ -77,7 +77,7 @@ Because the system was worn by an actor, reliability and safety were critical. M
 ```cpp
         case Behaviour::TinMan: {
      // The ON period of almost all RC pulses ranges from 1000us to 2000us.
-      // We'll remap this to an angle from -45 to +45
+      // We'll remap this to an angle 
       
       //Right and Left Eye X Movement (Channel 1 & Outputs 0 & 8)
       int eyeXright = map(channelInput[0], 1000, 2000, -50, 50);
@@ -90,7 +90,7 @@ Because the system was worn by an actor, reliability and safety were critical. M
       channelOutput[9] = pwmServo.pwmForAngle(eyeYright);
       int eyeYleft = map(channelInput[1], 1000, 2000, 30, -30);
       channelOutput[1] = pwmServo.pwmForAngle(eyeYleft);
-}
+
 ```
 
 ## Project Photos
