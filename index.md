@@ -7,7 +7,7 @@ Mechatronics Engineering graduate with hands-on experience in electromechanical 
 - [Mechatronics Engineering Capstone – Automated Prize Carousel](capstone.md)
 - [Animatronic Helmet Control System](animatronic-helmet.md)
 - Manufacturing & CNC Automation Experience
-- Automated Firework Ignition System
+- [Automated Firework Ignition System](firework-ignition-system.md)
 - CNC Drawing Machine
 
 ## Skills
