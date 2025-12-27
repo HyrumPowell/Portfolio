@@ -89,6 +89,15 @@ frameborder="0"
 allowfullscreen>
 </iframe>
 
+[▶ Watch Short Demo of Interactive Vertical Carousel](https://youtube.com/shorts/ymYzjWPgS60)
+
+<iframe width="560" height="315"
+src="https://youtube.com/embed/ymYzjWPgS60"
+title="Automated Firework Ignition System in Action Demo"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
 ## Project Photos
 
 ![Automated Firework Ignition System](images/IMG_0001.jpeg)
