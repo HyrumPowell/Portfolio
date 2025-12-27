@@ -68,6 +68,30 @@ Because the system was worn by an actor, reliability and safety were critical. M
 - Rapid iteration using CAD and additive manufacturing
 - System-level debugging across mechanical, electrical, and software domains
 
+## Code
+
+[View Arduino Control Code](code/animatronic/tinman_helmet_control.ino)
+
+## Control Code (Excerpt)
+
+```cpp
+        case Behaviour::TinMan: {
+     // The ON period of almost all RC pulses ranges from 1000us to 2000us.
+      // We'll remap this to an angle from -45 to +45
+      
+      //Right and Left Eye X Movement (Channel 1 & Outputs 0 & 8)
+      int eyeXright = map(channelInput[0], 1000, 2000, -50, 50);
+      channelOutput[8] = pwmServo.pwmForAngle(eyeXright);
+      int eyeXleft = map(channelInput[0], 1000, 2000, -50, 50);
+      channelOutput[0] = pwmServo.pwmForAngle(eyeXleft);
+
+      //Right and Left Eye Y Movement (Channel 2 & Outputs 1 & 9)
+      int eyeYright = map(channelInput[1], 1000, 2000, -30, 30);
+      channelOutput[9] = pwmServo.pwmForAngle(eyeYright);
+      int eyeYleft = map(channelInput[1], 1000, 2000, 30, -30);
+      channelOutput[1] = pwmServo.pwmForAngle(eyeYleft);
+}
+```
 
 ## Project Photos
 
@@ -79,3 +103,6 @@ Because the system was worn by an actor, reliability and safety were critical. M
 
 
 [Portfolio Main Page](index.md)
+
+
+
