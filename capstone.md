@@ -7,7 +7,7 @@ As part of my Mechatronics Engineering capstone, I worked on a multidisciplinary
 The project required integrating mechanical design, electrical wiring, control logic, fabrication, and system-level troubleshooting to deliver a working machine within a fixed timeline.
 
 ## System Description
-The machine consisted of a rotating vertical carousel used to display and dispense prizes. The system required precise mechanical alignment, reliable motion control, and safe electrical operation.
+The machine consisted of a rotating vertical carousel used to display prizes. The system required precise mechanical alignment, reliable motion control, and safe electrical operation.
 
 Key subsystems included:
 - Mechanical frame and rotating carousel
@@ -25,7 +25,7 @@ Key subsystems included:
 
 ## Challenges & Solutions
 **Mechanical alignment:**  
-Initial alignment issues caused binding during rotation. We adjusted tolerances and redesigned mounting features to improve reliability.
+Initial alignment issues caused binding during rotation. We added linkages to the chain to allow for expansion and contraction on the brackets.
 
 **Control sequencing:**  
 Early control logic caused timing issues between motion and sensor feedback. We refined the sequence logic and validated behavior through repeated testing.
