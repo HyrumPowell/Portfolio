@@ -121,9 +121,9 @@ allowfullscreen>
 
 ![Tin Man Animatronics Operator](images/IMG_7588.jpg)
 
-![Tin Man Animatronics and prop](images/IMG_7610.jpg)
+![Tin Man Animatronics and prop](images/IMG_7610.jpeg)
 
-![Tin Man Animatronics In Action](images/IMG_7603.jpg)
+![Tin Man Animatronics In Action](images/IMG_7603.jpeg)
 
 
 [Portfolio Main Page](index.md)
