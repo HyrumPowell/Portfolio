@@ -78,6 +78,17 @@ Careful wiring practices and channel labeling ensured predictable, repeatable op
 - Building safety-focused control logic
 - System-level thinking under real-world constraints
 
+## Video Demo
+
+[▶ Watch Short Demo of Interactive Vertical Carousel](https://youtube.com/shorts/b-jeW_xh8_I)
+
+<iframe width="560" height="315"
+src="https://youtube.com/embed/b-jeW_xh8_I"
+title="Automated Firework Ignition System Demo"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
 ## Project Photos
 
 ![Automated Firework Ignition System](images/IMG_0001.jpeg)
